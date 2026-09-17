@@ -1,0 +1,6 @@
+{
+  "name": "HTML Landing Page",
+  "description": "An interactive crypto investment and portfolio management platform featuring live asset tracking, instant buy/sell/swap trading, yield staking vaults, automated index bundles, and wallet management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
