@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/investment-platform/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
